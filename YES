@@ -1,0 +1,159 @@
+@echo off
+color 2
+title Nigger Fucker by Zeal
+echo ==================================================
+echo Welcome to Zeal's Pinger
+echo ==================================================
+echo                                                                 
+echo                         /:-.                                     
+echo                        -MMMMMmhs+:.                              
+echo                        sMMMMMMMMMMMmy+-                          
+echo                        NMMMMMMMMMMMMMMMms:`                      
+echo                       :MMMMMMMMMMMMMMMMMMMms.                    
+echo                       yms+::--::/+oyhdNMMNNMNy-                  
+echo                      `N/             ``.:.ydNMNs`                
+echo                      +N                    ``:smm:               
+echo                      ds           `-:-         `+d/              
+echo                     -M-     `:+oydmNMNd/`        `+:             
+echo                     sd     -dMMMMMMMMMMMm+`        .             
+echo                     m+    :NMMMMMMMMMMMMMMd-                     
+echo                    :M`   `mMMMMMMMMMMMMMMMMm.                    
+echo                   yy    sMMMMNho++ymMMMMMMMy                    
+echo                   .N/   +MMMMm:     `-+yNMMMM-                   
+echo                  `om.`./NMMMN- `  `` ` `+MMMMo`                  
+echo                   ds  sNMMMMy            mMMM:                   
+echo                  -M.  dMMMMd.            sMMm                    
+echo                  sd   oMMMM/             oMMN                    
+echo                  N+   `NMMMh             yMMM-                   
+echo                 /N`    mMMMM:            dMMM+                   
+echo                 hy    `NMMMMd:`         `MMMMs                   
+echo                `M:   .sMMMMMMMh.        sMMMM+                   
+echo                +m  `+mMMMMMMMMMN:     -yMMMMMmy+-`               
+echo                ms.omMMMMMMMMMMMMN:  /hNMMMMMMMMMMmy+-`           
+echo              `:MmMMMMMMMMMMMMMMMMm`sMMMMMMMMMMMMMMMMMmy/.        
+echo           :oydMMMMMMMMMMMMMMMMMMMMsMMMMMMMMMMMMMMMMMMMMMMs       
+echo           dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-      
+echo           /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN.     
+echo           hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm.    
+echo          .//////////////////////////////////////////////////-    
+echo.
+echo ======================================================================
+echo I Hit I
+echo I Them I
+echo I Offline I
+echo ==================================================
+echo Ping the faggot
+echo ==================================================
+:hub
+set /p var=Enter IP ~
+title Pinging the kiddo
+echo ===============================================
+echo Pinging this faggot's IP ----> "%var%"
+echo ===============================================
+:d
+echo ===============================================
+:x
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color a
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color B
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color d
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color C
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color 1
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color e
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color a
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color B
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color d
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color C
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color 1
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color a
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color B
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color d
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color C
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color 1
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color e
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color a
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color B
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color d
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color C
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color 1
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color a
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color B
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color d
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color C
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color 1
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color e
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color a
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color B
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color d
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color C
+PING -n 1 %var% | FIND "TTL="
+IF ERRORLEVEL 1 goto f
+color e
+cls
+Goto x
+:f
+color 40
+echo Nigga is offline lmao ez, fucked by zeal.
